@@ -43,6 +43,10 @@ nav ul li a {
     font-size: 1rem;
 }
 
+.hehe{
+    color: black;
+}
+
 /* Responsive Design */
 @media screen and (max-width: 768px) {
     nav ul {
@@ -218,11 +222,11 @@ button a:hover {
 /* Extra Styling */
 .hehe {
     font-size: 1rem;
-    color: azure;
+    color:black;
 }
 
 .h1 {
-    color: aquamarine;
+    color: rgb(216, 196, 18);
 }
 /* Footer Styling */
 footer {
